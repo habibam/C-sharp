@@ -27,11 +27,11 @@ namespace WeddingPlanner.Controllers
         {
 
             //Lazy login.  remove this when completed
-            // LoginUser dustin = new LoginUser();
-            // dustin.LogEmail = "dps@gmail.com";
-            // dustin.LogPassword = "password";
+            // LoginUser habiba = new LoginUser();
+            // habiba.LogEmail = "habiba@habiba.com";
+            // habiba.LogPassword = "password";
 
-            // return Login(dustin);
+            // return Login(habiba);
             return View();
         }
 
